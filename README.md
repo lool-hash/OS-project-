@@ -249,5 +249,4 @@ This Operating Systems project explores two fundamental OS concepts:
 
 **Created**: April 2026  
 **Author**: Project Documentation
-#   O S - p r o j e c t -  
- 
+#
